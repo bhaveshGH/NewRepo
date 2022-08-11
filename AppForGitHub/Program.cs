@@ -6,6 +6,7 @@ namespace AppForGitHub
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Today is Thursday");
             Console.WriteLine("Hello World!");
         }
     }
